@@ -38,7 +38,7 @@
 		294E496B1F8A6AA800045345 /* AddFriendsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 294E49651F8A6AA700045345 /* AddFriendsCell.xib */; };
 		294E496C1F8A6AA800045345 /* AddFriendsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 294E49661F8A6AA700045345 /* AddFriendsView.xib */; };
 		294E496D1F8A6AA800045345 /* AddFriendsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 294E49681F8A6AA800045345 /* AddFriendsCell.swift */; };
-		2950182F1D9A5CE000AFD8B3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2950182E1D9A5CE000AFD8B3 /* GoogleService-Info.plist */; };
+		2950182F1D9A5CE000AFD8B3 /* GoogleService-Info-relatedcode.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2950182E1D9A5CE000AFD8B3 /* GoogleService-Info-relatedcode.plist */; };
 		2950E2EB23F89B0600C40714 /* app_logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2950E2EA23F89B0600C40714 /* app_logo@2x.png */; };
 		2955F553240712DE001C8D2A /* MenuExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2955F552240712DE001C8D2A /* MenuExtension.swift */; };
 		295D93842094930400A222CA /* GroupsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 295D937A2094930400A222CA /* GroupsView.swift */; };
@@ -237,6 +237,7 @@
 		29EABE4E20ECAC3C00A13F26 /* NavController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EABE4C20ECAC3C00A13F26 /* NavController.swift */; };
 		29ED990D23CCA28F0036BE27 /* DispatchQueue+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29ED990C23CCA28F0036BE27 /* DispatchQueue+Extension.swift */; };
 		29F2B905245EABBD00648921 /* NYTPhotoSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F2B904245EABBC00648921 /* NYTPhotoSource.swift */; };
+		4795358A247A61A9000EDBAE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 47953589247A61A9000EDBAE /* GoogleService-Info.plist */; };
 		6C0888E250EDDE30BCA104EB /* Pods_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14A8835041C05399266378E9 /* Pods_app.framework */; };
 /* End PBXBuildFile section */
 
@@ -274,7 +275,7 @@
 		294E49661F8A6AA700045345 /* AddFriendsView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddFriendsView.xib; sourceTree = "<group>"; };
 		294E49681F8A6AA800045345 /* AddFriendsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddFriendsCell.swift; sourceTree = "<group>"; };
 		295015181D9A5C1B00AFD8B3 /* app.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = app.entitlements; sourceTree = "<group>"; };
-		2950182E1D9A5CE000AFD8B3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2950182E1D9A5CE000AFD8B3 /* GoogleService-Info-relatedcode.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-relatedcode.plist"; sourceTree = "<group>"; };
 		295018301D9A5CE600AFD8B3 /* AppConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppConstant.h; sourceTree = "<group>"; };
 		2950E2EA23F89B0600C40714 /* app_logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app_logo@2x.png"; sourceTree = "<group>"; };
 		2955F552240712DE001C8D2A /* MenuExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuExtension.swift; sourceTree = "<group>"; };
@@ -478,6 +479,7 @@
 		29EABE4C20ECAC3C00A13F26 /* NavController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavController.swift; sourceTree = "<group>"; };
 		29ED990C23CCA28F0036BE27 /* DispatchQueue+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DispatchQueue+Extension.swift"; sourceTree = "<group>"; };
 		29F2B904245EABBC00648921 /* NYTPhotoSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NYTPhotoSource.swift; sourceTree = "<group>"; };
+		47953589247A61A9000EDBAE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7393A6F3A4D6270AF7ACDCFA /* Pods-app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app.release.xcconfig"; path = "Pods/Target Support Files/Pods-app/Pods-app.release.xcconfig"; sourceTree = "<group>"; };
 		FC28F63C1114893726170446 /* Pods-app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-app.debug.xcconfig"; path = "Pods/Target Support Files/Pods-app/Pods-app.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1368,7 +1370,8 @@
 				295018301D9A5CE600AFD8B3 /* AppConstant.h */,
 				29D29EF81D9A59E4006CA074 /* AppDelegate.swift */,
 				29D29F001D9A59E4006CA074 /* Assets.xcassets */,
-				2950182E1D9A5CE000AFD8B3 /* GoogleService-Info.plist */,
+				2950182E1D9A5CE000AFD8B3 /* GoogleService-Info-relatedcode.plist */,
+				47953589247A61A9000EDBAE /* GoogleService-Info.plist */,
 				29D29F021D9A59E4006CA074 /* LaunchScreen.storyboard */,
 				29D29F051D9A59E4006CA074 /* Info.plist */,
 			);
@@ -1497,6 +1500,7 @@
 				2960214D1F2CF5F600544468 /* AllMediaCell.xib in Resources */,
 				296021691F2CF5F600544468 /* SelectUserView.xib in Resources */,
 				295D93892094930400A222CA /* GroupsCell.xib in Resources */,
+				4795358A247A61A9000EDBAE /* GoogleService-Info.plist in Resources */,
 				2920B1882030AD3500DB6E07 /* AudioView.xib in Resources */,
 				29181BB1239AEE9900062FBC /* callvideo_answer@2x.png in Resources */,
 				29D29F011D9A59E4006CA074 /* Assets.xcassets in Resources */,
@@ -1566,7 +1570,7 @@
 				296021EC1F2CF5F600544468 /* LoginEmailView.xib in Resources */,
 				29181BA3239AEE8B00062FBC /* callaudio_video2@2x.png in Resources */,
 				294E496C1F8A6AA800045345 /* AddFriendsView.xib in Resources */,
-				2950182F1D9A5CE000AFD8B3 /* GoogleService-Info.plist in Resources */,
+				2950182F1D9A5CE000AFD8B3 /* GoogleService-Info-relatedcode.plist in Resources */,
 				2989906F1F1B6FFD00AC73B3 /* wallpapers08@2x.jpg in Resources */,
 				296021651F2CF5F600544468 /* SelectUsersView.xib in Resources */,
 				296021891F2CF5F600544468 /* CustomStatusView.xib in Resources */,
@@ -1953,7 +1957,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 6.1;
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.relatedcode.messenger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iamstar.iamstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "app-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1979,7 +1983,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 6.1;
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.relatedcode.messenger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iamstar.iamstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "app-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;

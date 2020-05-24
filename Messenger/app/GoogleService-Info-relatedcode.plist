@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>143424020139-mu2a46b24jiqs63gtq5fg6bvrdni6k9n.apps.googleusercontent.com</string>
+	<string>1071642075263-9k1lsh35j2m24j0f7bsvak7tj38kfdjl.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.143424020139-mu2a46b24jiqs63gtq5fg6bvrdni6k9n</string>
+	<string>com.googleusercontent.apps.1071642075263-9k1lsh35j2m24j0f7bsvak7tj38kfdjl</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCbFpp_QlQWaAr3MGH_Y3WXqy6ISIKylic</string>
+	<string>AIzaSyCk60-8AHyxBZn6Wd-BvMUsAgcn6fRhxMo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>143424020139</string>
+	<string>1071642075263</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.iamstar.iamstar</string>
+	<string>com.relatedcode.messenger</string>
 	<key>PROJECT_ID</key>
-	<string>iamstar-a56a7</string>
+	<string>messenger61-ea694</string>
 	<key>STORAGE_BUCKET</key>
-	<string>iamstar-a56a7.appspot.com</string>
+	<string>messenger61-ea694.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:143424020139:ios:27ae8286bf7e4055c461ee</string>
+	<string>1:1071642075263:ios:945f8c88963e7c1b8c5f4a</string>
 	<key>DATABASE_URL</key>
-	<string>https://iamstar-a56a7.firebaseio.com</string>
+	<string>https://messenger61-ea694.firebaseio.com</string>
 </dict>
 </plist>
